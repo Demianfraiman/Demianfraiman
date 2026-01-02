@@ -8,7 +8,9 @@ I work on the mathematical foundations of deep learning, focusing on universalit
 
 ## Past projects
 - **Thesis — Theoretical analysis on LLMs language understanding capacities**  
-  Formalizing neural network universal capacities of language understanding.
+  Formalizing neural network universal capacities of language understanding via optimal transport.
+- **Axiomatic topological construction of semantic embedding space**
+  Theoretical construction and universal capacities of neural networks to to understand semantical meaning space.
 - **Anommaly detector procedure for wearable ECG**  
   Eficient and interpretable new graph based online classifier.
 - **Polynomial graph class recognition algorithm**  
