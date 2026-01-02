@@ -1,5 +1,5 @@
 ## About
-I work on the mathematical foundations of deep learning, focusing on universality, geometry, and the structure of function spaces.
+I work on the mathematical foundations of deep learning, focusing on universality, geometry, and the structure of function spaces. I am strongly problem-driven: I enjoy working on hard questions regardless of their mathematical domain, and I adapt tools from different areas as needed.
 
 ## Current Focus
 - Aproximation and generalization capacity of neural networks
