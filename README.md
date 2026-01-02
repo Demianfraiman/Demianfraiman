@@ -1,16 +1,19 @@
-## Hi there 👋
+## About
+I work on the mathematical foundations of deep learning, focusing on universality, geometry, and the structure of function spaces.
 
-<!--
-**Demianfraiman/Demianfraiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
+- Universality of symmetry-preserving architectures  
+- Geometric deep learning and operators on probability measures  
+- Functional-analytic perspectives on transformers and LLMs  
 
-Here are some ideas to get you started:
+## Selected Projects
+- **Thesis — Geometric Deep Learning**  
+  Framework for universality and symmetry in deep models.
+- **Statistical Modeling of Echocardiograms**  
+  Probabilistic modeling with structural constraints.
+- **Graph Structure and Invariance**  
+  Studying invariance and limitations of graph-based models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+MSc in Data Science with a strong mathematical background.
+
